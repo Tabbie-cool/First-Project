@@ -1,1 +1,16 @@
-# First-Project
+# Project Name: DA First-Project
+
+....
+# Project Objective: Statement Problem
+
+....
+# Data Sourcing
+
+
+....
+# Data Transformation
+....
+
+
+....
+# Findings and recommendations
